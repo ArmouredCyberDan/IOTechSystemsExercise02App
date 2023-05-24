@@ -1,0 +1,15 @@
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\bin\Debug\net7.0\IOTechSystemsExercise02.exe
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\bin\Debug\net7.0\IOTechSystemsExercise02.deps.json
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\bin\Debug\net7.0\IOTechSystemsExercise02.runtimeconfig.json
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\bin\Debug\net7.0\IOTechSystemsExercise02.dll
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\bin\Debug\net7.0\IOTechSystemsExercise02.pdb
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.csproj.AssemblyReference.cache
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.AssemblyInfoInputs.cache
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.AssemblyInfo.cs
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.csproj.CoreCompileInputs.cache
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.dll
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\refint\IOTechSystemsExercise02.dll
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.pdb
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\IOTechSystemsExercise02.genruntimeconfig.cache
+C:\Users\gwi\source\repos\IOTechSystemsExercise02App\IOTechSystemsExercise02\obj\Debug\net7.0\ref\IOTechSystemsExercise02.dll
